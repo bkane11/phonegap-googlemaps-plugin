@@ -37,3 +37,10 @@ platforms/ios/www/*
 .DS_Store
 ant-build/
 ant-gen/
+example/
+www/css/
+www/images/
+www/pages/
+plugins/
+www/js/
+platforms/
